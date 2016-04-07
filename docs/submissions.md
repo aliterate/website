@@ -31,6 +31,9 @@ Please use your title as the e-mail subject. Do not include 'Submission' in the 
 ##### Why do you do blind review?
 We're biased and we want to take steps to reduce those biases.
 
+##### When can I expect a response?
+Our reading period closes at the end of April and we anticipate being underwater for some time. Please query us if you haven't heard back by July 1.
+
 ##### Why don't you use [submission manager]?
 Most commercial submission managers are structured to push journals into charging submission fees. We believe that money should always flow from a publisher to an author.
 
