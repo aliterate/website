@@ -1,0 +1,13 @@
+site_name: Aliterate
+theme: readable
+google_analytics: ['UA-73755926-1', 'aliterate.org']
+pages:
+pages:
+- Home: 'index.md'
+- Submit: 'submissions.md'
+- Subscribe: 'subscribe.md'
+- About:
+    - 'Masthead': 'about.md'
+    - 'Privacy': 'about/privacy.md'
+extra_javascript:
+  - js/js.js
