@@ -28,6 +28,9 @@ Please use your title as the e-mail subject. Do not include 'Submission' in the 
 
 ### FAQ
 
+##### I sent you my submission, now what?
+You should hear back from our robot within 10 minutes. If you don't get a response by end of day, check your spam folder. Failing that, please contact editor@. The robot sometimes misbehaves and we'd like to hear about it.
+
 ##### Why do you do blind review?
 We're biased and we want to take steps to reduce those biases.
 
@@ -39,5 +42,3 @@ Most commercial submission managers are structured to push journals into chargin
 
 ##### Why don't you publish erotica, gore, or inspirational fiction?
 We just don't. There are other venues for these works.
-
-
