@@ -5,12 +5,12 @@
 
 ### Contact
 
-    editor@aliterate.org
-    alitmag@twitter
+* [editor@aliterate.org](mailto:editor@aliterate.org)
+* [alitmag@twitter](https://twitter.com/alitmag)
 
-    Genre, Ltd.
-    P.O. Box 380020
-    Cambridge, MA 02238
+Genre, Ltd.
+P.O. Box 380020
+Cambridge, MA 02238
 
 
 ## About
